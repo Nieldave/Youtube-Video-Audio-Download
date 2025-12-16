@@ -1,1 +1,1 @@
-YoutubePlaylistDownloader
+Youtube Video Downloader
